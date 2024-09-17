@@ -1,0 +1,23 @@
+2024-09-14 22:55:02,795 - config - INFO - PROJ_ROOT path is: /Users/jinkettyee/Desktop/PycharmProjects/statistical_reasoning
+2024-09-14 22:56:02,020 - config - INFO - PROJ_ROOT path is: /Users/jinkettyee/Desktop/PycharmProjects/statistical_reasoning
+2024-09-14 22:56:41,893 - config - INFO - PROJ_ROOT path is: /Users/jinkettyee/Desktop/PycharmProjects/statistical_reasoning
+2024-09-14 22:57:02,296 - config - INFO - PROJ_ROOT path is: /Users/jinkettyee/Desktop/PycharmProjects/statistical_reasoning
+2024-09-14 22:59:34,097 - config - INFO - PROJ_ROOT path is: /Users/jinkettyee/Desktop/PycharmProjects/statistical_reasoning
+2024-09-14 23:02:45,158 - config - INFO - PROJ_ROOT path is: /Users/jinkettyee/Desktop/PycharmProjects/statistical_reasoning
+2024-09-14 23:02:45,159 - config - INFO - TQDM logging setup complete.
+2024-09-14 23:03:56,682 - matplotlib.font_manager - INFO - Failed to extract font properties from /System/Library/Fonts/LastResort.otf: tuple indices must be integers or slices, not str
+2024-09-14 23:03:56,700 - matplotlib.font_manager - INFO - Failed to extract font properties from /System/Library/Fonts/Supplemental/NISC18030.ttf: In FT2Font: Could not set the fontsize (invalid pixel size; error code 0x17)
+2024-09-14 23:03:57,002 - matplotlib.font_manager - INFO - Failed to extract font properties from /System/Library/Fonts/Apple Color Emoji.ttc: In FT2Font: Could not set the fontsize (invalid pixel size; error code 0x17)
+2024-09-14 23:03:57,056 - matplotlib.font_manager - INFO - generated new fontManager
+2024-09-14 23:04:16,538 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-14 23:04:16,601 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-14 23:09:57,341 - config - INFO - PROJ_ROOT path is: /Users/jinkettyee/Desktop/PycharmProjects/statistical_reasoning
+2024-09-14 23:09:57,346 - config - INFO - TQDM logging setup complete.
+2024-09-14 23:09:58,935 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-14 23:09:59,004 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-15 08:46:47,068 - config - INFO - PROJ_ROOT path is: /Users/jinkettyee/Desktop/PycharmProjects/statistical_reasoning
+2024-09-15 08:46:47,076 - config - INFO - TQDM logging setup complete.
+2024-09-15 08:48:38,090 - config - INFO - PROJ_ROOT path is: /Users/jinkettyee/Desktop/PycharmProjects/statistical_reasoning
+2024-09-15 08:48:38,096 - config - INFO - TQDM logging setup complete.
+2024-09-15 09:08:43,790 - config - INFO - PROJ_ROOT path is: /Users/jinkettyee/Desktop/PycharmProjects/statistical_reasoning
+2024-09-15 09:08:43,795 - config - INFO - TQDM logging setup complete.
